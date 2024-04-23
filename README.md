@@ -1,7 +1,7 @@
 <div>
-  <p>👋 Olá! Meu nome é Sérgio Assunção Monteiro.
-👀 Tenho interesse nas áreas de Otimização, Ciência de Dados, Machine Learning, Séries Temporais, Finanças, Computação Quântica e Programação Funcional.
-🌱 Atualmente, estou desenvolvendo aplicações de Visão Computacional, Processamento de Linguagem Natural, Séries Temporais, Construção de Portfólio, Programação Convexa e Computação Quântica.</p>
+  <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>p
+  <p>👀 Tenho interesse nas áreas de desenvolvimento de websites HTML CSS PHP, Banco de dados PsQL, java, Python.</p>
+  <p>🌱 Atualmente, estou estudando Análise e Desemvolvimento de Sistemas na Estácio.</p>
 </div>
 <div align="center">
   <a href="https://github.com/Ailton78">
