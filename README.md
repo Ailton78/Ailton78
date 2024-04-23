@@ -1,6 +1,19 @@
 <div>
   <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>
-  <p>👀 Tenho interesse nas áreas de desenvolvimento de websites HTML CSS PHP, Banco de dados PsQL, java, Python.</p>
+  <p>👀 Tenho interesse nas áreas. </p>
+      <dl>
+        <dt>Desenvolvimento de websites:</dt>
+            <dd>html</dd>
+            <dd>css</dd>
+            <dd>JavaScript</dd>
+            <dd>php</dd>
+        <dt>Banco de Dados:</dt>
+            <dd>PostgreSql</dd>
+            <dd>MySql</dd>
+        <dt>Conhecimentos em:</dt>
+            <dd>Java</dd>
+            <dd>Python</dd>
+        </dl>
   <p>🌱 Atualmente, estou estudando Análise e Desemvolvimento de Sistemas na Estácio.</p>
 </div>
 <div align="center">
