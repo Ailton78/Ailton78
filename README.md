@@ -2,7 +2,7 @@
   <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>
   <p>👀 Tenho interesse nas áreas. </p>
       <dl>
-        <dt>Desenvolvimento de websites:</dt>
+        <dt style='margin: 0;'>Desenvolvimento de websites:</dt>
             <dd>html</dd>
             <dd>css</dd>
             <dd>JavaScript</dd>
