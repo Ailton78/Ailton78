@@ -1,8 +1,13 @@
 <div>
   <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>
   <p>👀 Tenho interesse nas áreas. </p>
+  style{
+  dd{
+  style="margin: 0;
+  }
+  }
       <dl>
-        <dt style='margin: 0;'>Desenvolvimento de websites:</dt>
+        <dt>Desenvolvimento de websites:</dt>
             <dd>html</dd>
             <dd>css</dd>
             <dd>JavaScript</dd>
