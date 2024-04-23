@@ -1,5 +1,5 @@
 <div>
-  <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>p
+  <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>
   <p>👀 Tenho interesse nas áreas de desenvolvimento de websites HTML CSS PHP, Banco de dados PsQL, java, Python.</p>
   <p>🌱 Atualmente, estou estudando Análise e Desemvolvimento de Sistemas na Estácio.</p>
 </div>
