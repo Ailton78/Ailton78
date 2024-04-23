@@ -1,20 +1,8 @@
 <div>
   <p>👋 Olá! Meu nome é Ailton B. Sampaio.</p>
-  <p>👀 Tenho interesse nas áreas. </p>
- 
-      <dl>
-        <dt>Desenvolvimento de websites:</dt>
-            <dd style="margin: 0;">html</dd>
-            <dd style="margin: 0;">css</dd>
-            <dd style="margin: 0;">JavaScript</dd>
-            <dd style="margin: 0;">php</dd>
-        <dt>Banco de Dados:</dt>
-            <dd>PostgreSql</dd>
-            <dd>MySql</dd>
-        <dt>Conhecimentos em:</dt>
-            <dd>Java</dd>
-            <dd>Python</dd>
-        </dl>
+  <p>👀 Tenho interesse nas áreas, desemvolvimento de Websites, dominando a triade do desenvolvimento web (html, css, javaScript), utilizando PHP para deixar as paginas dinâmicas.</p>
+  <p>conhecimento em banco de dados utilizando os SGBD's MySql e PostgreSql.</p>
+  <p>conhecimento intermediario me Java e Python.</p>
   <p>🌱 Atualmente, estou estudando Análise e Desemvolvimento de Sistemas na Estácio.</p>
 </div>
 <div align="center">
