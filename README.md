@@ -1,4 +1,8 @@
-
+<div>
+  <p>👋 Olá! Meu nome é Sérgio Assunção Monteiro.
+👀 Tenho interesse nas áreas de Otimização, Ciência de Dados, Machine Learning, Séries Temporais, Finanças, Computação Quântica e Programação Funcional.
+🌱 Atualmente, estou desenvolvendo aplicações de Visão Computacional, Processamento de Linguagem Natural, Séries Temporais, Construção de Portfólio, Programação Convexa e Computação Quântica.</p>
+</div>
 <div align="center">
   <a href="https://github.com/Ailton78">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailton78&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
