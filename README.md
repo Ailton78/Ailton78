@@ -19,11 +19,28 @@
   [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Ailton_Sampaio)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+91+985841071)
   
-👋 Olá! Meu nome é Ailton B. Sampaio.
+Olá! Eu sou Ailton B. Sampaio 👋 
 
-👀 Tenho interesse nas áreas, desemvolvimento de Websites, dominando a triade do desenvolvimento web (html, css, javaScript), utilizando PHP para deixar as paginas dinâmicas.
-conhecimento em banco de dados utilizando os SGBD's MySql e PostgreSql.
-conhecimento intermediario me Java e Python.
-🌱 Atualmente, estou estudando Análise e Desemvolvimento de Sistemas na Estácio.
+Sou apaixonado por desenvolvimento de software e estou sempre em busca de novos desafios. Com uma sólida base em desenvolvimento web, tenho me dedicado a aprimorar minhas habilidades e explorar novas tecnologias.
 
+💻 Minhas Habilidades
+Desenvolvimento Web: Domínio da tríade do desenvolvimento web:
+
+HTML, CSS e JavaScript para criação de páginas estáticas e interativas.
+PHP para construção de páginas dinâmicas e integração com bancos de dados.
+Banco de Dados: Experiência em trabalhar com os principais SGBDs:
+
+MySQL e PostgreSQL para modelagem, administração e otimização de bancos de dados.
+Desenvolvimento com Java:
+
+Java é minha principal linguagem de desenvolvimento, e tenho experiência em construir aplicações robustas e escaláveis com Spring Framework, utilizando principalmente o Spring Boot para APIs RESTful e sistemas backend eficientes.
+Programação com Python: Também possuo conhecimento intermediário em Python, utilizado em automações e scripts.
+
+🌱 Atualmente...
+Estou me aprofundando em Análise e Desenvolvimento de Sistemas na Estácio, buscando combinar minha paixão por codificação com um entendimento sólido de processos de desenvolvimento e arquitetura de sistemas.
+
+🚀 Objetivos
+Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos, especialmente em projetos backend com Java e Spring. Se você tiver alguma oportunidade ou projeto que se encaixe, ficarei feliz em conversar!
+
+Essa versão é mais focada e organizada, destacando as suas habilidades principais, especialmente com Java e Spring, e tornando a apresentação mais clara e envolvente para quem visitar seu perfil no GitHub. Ela também destaca seu interesse em aprender e sua formação atual, o que é importante para mostrar seu compromisso com o crescimento profissional.
  
